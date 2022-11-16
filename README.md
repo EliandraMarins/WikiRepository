@@ -1,6 +1,6 @@
 <h1>Buscador de repositórios</h1>
 <p>Projeto construído com o auxílio do professor Pablo Henrique no bootcamp Orange Tech +.</p>
-<p>Foi implementada a função de remover repositórios e fiz uma pequenas mudanças no CSS da página.</p>
+<p>Foi implementada a função de remover repositórios e fiz pequenas mudanças no CSS da página.</p>
 
 <h3>Tecnologias utilizadas:</h3>
 <li>React;</li>
